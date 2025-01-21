@@ -1,2 +1,2 @@
-# LAB-C-
+# LAB-C++
 Questions by Abu Raiyan sir 
